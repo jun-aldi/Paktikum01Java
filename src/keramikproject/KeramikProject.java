@@ -11,7 +11,7 @@ package keramikproject;
  */
 public class KeramikProject {
     public static void main(String[] args) {
-        /*instansisasi*/
+        /*instansiasi*/
         HargaKeramik k1 = new HargaKeramik();
         k1.panjang=30;
         k1.lebar=30;
